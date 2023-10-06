@@ -15,3 +15,19 @@ The game continues under the user guessing the number with further details as:
 • Displaying score.
 
 • Giving points based on the number of attempts
+***
+### commands
+<b>1. For compilation:</b>
+~~~
+javac <filename.java>
+~~~
+~~~
+javac NumberGuessingGame.java
+~~~
+<b>2. For execution:</b>
+~~~
+java <filename>
+~~~
+~~~
+java NumberGuessingGame
+~~~
