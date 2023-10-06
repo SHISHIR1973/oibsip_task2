@@ -16,7 +16,11 @@ The game continues under the user guessing the number with further details as:
 
 • Giving points based on the number of attempts
 ***
-### commands
+### REQUIREMENTS
+1. <a href="https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html" target="_blank">JDK 8</a>
+2. Any Code Editor ( <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a> )
+***
+### COMMANDS
 <b>1. For compilation:</b>
 ~~~
 javac <filename.java>
